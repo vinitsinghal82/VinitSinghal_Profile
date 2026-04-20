@@ -67,7 +67,6 @@ Innovation: Building solutions that make a real impact
 📫 Contact Information
 
 Email: vinitsinghal82@gmail.com
-Portfolio: https://ayush4u.github.io/portfolio/
 
 💡 Fun Fact
 I'm fascinated by how AI can augment human intelligence rather than replace it. Currently exploring ways to make AGI beneficial for humanity while maintaining safety and ethical considerations.
