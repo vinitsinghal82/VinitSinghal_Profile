@@ -3,7 +3,7 @@ Portfolio repository showcasing my projects in AI, RPA, DevOps, and full-stack d
 Profile Overview
 Username: VinitSinghal_Profile
 Display Name: Vinit 
-Profile URL: https://github.com/VinitSinghal_Profile
+Profile URL: https://github.com/vinitsinghal82/VinitSinghal_Profile
 Status: 🎯 Focusing
 Bio
 "I guess we all are beginner, currently learning everything."
@@ -84,33 +84,33 @@ Popular Repositories
 Description: Just little basic program codes
 Language: Python
 Type: Public
-URL: https://github.com/VinitSinghal_Profile
+URL: https://github.com/vinitsinghal82/VinitSinghal_Profile
 
 2. JS
 
 Description: JavaScript from Zero to Hero
 Language: JavaScript
 Type: Public
-URL: https://github.com/VinitSinghal_Profile/JS
+URL: https://github.com/vinitsinghal82/VinitSinghal_Profile/JS
 
 3. DocuBot-AI
 
 Description: Just Another knowledgebase bot using rag
 Language: JavaScript
 Type: Public
-URL: https://github.com/VinitSinghal_Profile/DocuBot-AI
+URL: https://github.com/vinitsinghal82/VinitSinghal_Profile/DocuBot-AI
 
 5. learning-ai
 
 Language: Python
 Type: Public
-URL: https://github.com/VinitSinghal_Profile/learning-ai
+URL: https://github.com/vinitsinghal82/VinitSinghal_Profile/learning-ai
 
 6. portfolio
 
 Language: JavaScript
 Type: Public
-URL: https://github.com/VinitSinghal_Profile/portfolio
+URL: https://github.com/vinitsinghal82/VinitSinghal_Profile/portfolio
 
 Profile Features
 Focus Areas
